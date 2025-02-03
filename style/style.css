@@ -65,6 +65,10 @@ header h4{
     /* width: 100%; */
 }
 
+.slider input{
+    display: none;
+}
+
 .slides{
     display: flex;
     /* width: 100%; */
